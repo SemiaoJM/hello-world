@@ -1,4 +1,4 @@
-# hello-world
+# Hello-world
 
 Repo to support the _GitHub Guides_
 
